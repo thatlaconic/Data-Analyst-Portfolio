@@ -10,7 +10,12 @@ This experience ignited my interest in using data analysis to drive decision-mak
 The purpose of this repository is to showcase my skills through various projects using data analysis tools and provide solution to problems.
 
 ## Projects
-  ### + DataCo Global Supply Chain
-  ###
-  Code: 
+  ### DataCo Global Supply Chain
+  Description: 
+  
+  Tools: MS Excel & Power BI
+  
+  Skills: Data Wrangling, Data Visulization
+
+  [View More](https://github.com/thatlaconic/DataCo-Supply-Chain-.git)
 
