@@ -11,11 +11,14 @@ The purpose of this repository is to showcase my skills through various projects
 
 ## Projects
   ### DataCo Global Supply Chain
-  Description: 
+  **Description**: The dataset from DataCo Global contains data in supply chain operations from 2015 to Q1 2018. The main objective for this project is to analyze the performance of supply chain logistics and sales. Key findings include a low order fill rate of 42.79% throughout the years and consistent late deliveries from the shipping operations, particularly with the standard shipping mode. Furthermore, the fan shop department was the top performer, contributing to nearly 50% of sales annually with the fishing category leading in sales.
   
-  Tools: MS Excel & Power BI
-  
-  Skills: Data Wrangling, Data Visulization
+**Tools**: MS Excel & Power BI
+
+<div style="background-color: #4CAF50; color: white; padding: 10px 20px; border-radius: 50px; text-align: center; width: fit-content; margin: auto;"> This is an oval block! </div>
+
+
+**Skills**: Data Wrangling, Data Visulization
 
   [View More](https://github.com/thatlaconic/DataCo-Supply-Chain-.git)
 
