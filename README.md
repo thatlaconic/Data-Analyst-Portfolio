@@ -26,7 +26,7 @@ The purpose of this repository is to showcase my skills through various projects
 
 **`Tools:`** SQL, MySQL, PostgreSQL
 
-#### 
+  #### 
 1. **Santa's Gift List Parser** [view](https://github.com/thatlaconic/Advent-of-sql-day1#santas-gift-list-parser)
 
     **`Skills:`** `CTE` `JOIN` `JSON`
