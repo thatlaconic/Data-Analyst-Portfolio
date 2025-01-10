@@ -35,7 +35,7 @@ The purpose of this repository is to showcase my skills through various projects
 
    **`Skills:`** `ASCII` `UNION` `CHR()`
 
-3. **The Great Christmas Analytics Crisis of 2024** [view](https://github.com/thatlaconic/advent-of-sql-day-3/tree/main#the-great-christmas-analytics-crisis-of-2024)
+3. **The Great Christmas Analytics Crisis of 2024** [view](https://adventofsql.com/challenges/example)
 
    **`Skills:`** `CTE` `JOIN` `AVG`
 
