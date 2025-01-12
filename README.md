@@ -1,4 +1,4 @@
-# DA Portfolio - Milette Mae Antonio
+# DA Portfolio
 ## About me
 ###
 Hi, I'm Milette! I'm a chemical engineer with a strong passion for transitioning into a data analyst role. I have a year of experience as a process engineer in a nanofiber company, where I honed my skills in analyzing data, identifying patterns, and conducting experiments to meet project and customer requirements. This experience strengthened my analytical and problem-solving skills, enhanced my ability to interpret data-driven insights, learned how to design experiments and effectively communicate results which are essential skills for a data analyst.
